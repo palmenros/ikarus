@@ -2,10 +2,80 @@
 <lc:CircuitProject xmlns:lc="http://LogicCircuit.net/2.0.0.7/CircuitProject.xsd">
 	<lc:Project>
 		<lc:ProjectId>f2f4921a-0115-422e-86a9-9b2d654ae001</lc:ProjectId>
-		<lc:LogicalCircuitId>8a6a2487-8a7b-489c-ba14-e6705a18a23e</lc:LogicalCircuitId>
+		<lc:LogicalCircuitId>15ccbbf5-e881-40c0-9c22-f3afb133fd0b</lc:LogicalCircuitId>
+		<lc:CategoryTextNoteCollapsed>True</lc:CategoryTextNoteCollapsed>
 	</lc:Project>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>8a6a2487-8a7b-489c-ba14-e6705a18a23e</lc:LogicalCircuitId>
 		<lc:Notation>Main</lc:Notation>
 	</lc:LogicalCircuit>
+	<lc:LogicalCircuit>
+		<lc:LogicalCircuitId>15ccbbf5-e881-40c0-9c22-f3afb133fd0b</lc:LogicalCircuitId>
+		<lc:Name>Text</lc:Name>
+		<lc:Notation>Circuit</lc:Notation>
+	</lc:LogicalCircuit>
+	<lc:CircuitProbe>
+		<lc:CircuitProbeId>0cff7faf-e130-4bd0-98a7-dd26ddec12bb</lc:CircuitProbeId>
+		<lc:Name>0cff7faf-e130-4bd0-98a7-dd26ddec12bb</lc:Name>
+	</lc:CircuitProbe>
+	<lc:CircuitButton>
+		<lc:CircuitButtonId>e023f0fa-b575-449a-a114-32d4a83e0e23</lc:CircuitButtonId>
+		<lc:IsToggle>True</lc:IsToggle>
+	</lc:CircuitButton>
+	<lc:CircuitButton>
+		<lc:CircuitButtonId>9c95e018-3bbb-40c1-8dc0-e6bc09885ec5</lc:CircuitButtonId>
+		<lc:IsToggle>True</lc:IsToggle>
+	</lc:CircuitButton>
+	<lc:CircuitSymbol>
+		<lc:CircuitSymbolId>56d22fb1-a4d2-4f7d-8727-9edf3d2a6e24</lc:CircuitSymbolId>
+		<lc:CircuitId>e023f0fa-b575-449a-a114-32d4a83e0e23</lc:CircuitId>
+		<lc:LogicalCircuitId>15ccbbf5-e881-40c0-9c22-f3afb133fd0b</lc:LogicalCircuitId>
+		<lc:X>20</lc:X>
+		<lc:Y>10</lc:Y>
+	</lc:CircuitSymbol>
+	<lc:CircuitSymbol>
+		<lc:CircuitSymbolId>f78914f6-92a5-47ad-847c-6deb41aa2f9f</lc:CircuitSymbolId>
+		<lc:CircuitId>9c95e018-3bbb-40c1-8dc0-e6bc09885ec5</lc:CircuitId>
+		<lc:LogicalCircuitId>15ccbbf5-e881-40c0-9c22-f3afb133fd0b</lc:LogicalCircuitId>
+		<lc:X>29</lc:X>
+		<lc:Y>16</lc:Y>
+	</lc:CircuitSymbol>
+	<lc:CircuitSymbol>
+		<lc:CircuitSymbolId>f5455a93-acd6-41ad-9d54-6ae7fe1a8cad</lc:CircuitSymbolId>
+		<lc:CircuitId>00000000-0000-0000-0000-000000040200</lc:CircuitId>
+		<lc:LogicalCircuitId>15ccbbf5-e881-40c0-9c22-f3afb133fd0b</lc:LogicalCircuitId>
+		<lc:X>36</lc:X>
+		<lc:Y>14</lc:Y>
+	</lc:CircuitSymbol>
+	<lc:CircuitSymbol>
+		<lc:CircuitSymbolId>3f3510e2-7aa3-42b6-9905-6e08adcdaecc</lc:CircuitSymbolId>
+		<lc:CircuitId>0cff7faf-e130-4bd0-98a7-dd26ddec12bb</lc:CircuitId>
+		<lc:LogicalCircuitId>15ccbbf5-e881-40c0-9c22-f3afb133fd0b</lc:LogicalCircuitId>
+		<lc:X>43</lc:X>
+		<lc:Y>16</lc:Y>
+	</lc:CircuitSymbol>
+	<lc:Wire>
+		<lc:WireId>6b8be4a7-46a5-475e-87c3-d45e356ecf69</lc:WireId>
+		<lc:LogicalCircuitId>15ccbbf5-e881-40c0-9c22-f3afb133fd0b</lc:LogicalCircuitId>
+		<lc:X1>39</lc:X1>
+		<lc:Y1>16</lc:Y1>
+		<lc:X2>43</lc:X2>
+		<lc:Y2>17</lc:Y2>
+	</lc:Wire>
+	<lc:Wire>
+		<lc:WireId>956dffe9-ef1d-41b5-8264-e5d2b888e0dc</lc:WireId>
+		<lc:LogicalCircuitId>15ccbbf5-e881-40c0-9c22-f3afb133fd0b</lc:LogicalCircuitId>
+		<lc:X1>31</lc:X1>
+		<lc:Y1>17</lc:Y1>
+		<lc:X2>36</lc:X2>
+		<lc:Y2>17</lc:Y2>
+	</lc:Wire>
+	<lc:Wire>
+		<lc:WireId>f1ab2fbd-7b18-44fb-bb96-1db52efe4ffd</lc:WireId>
+		<lc:LogicalCircuitId>15ccbbf5-e881-40c0-9c22-f3afb133fd0b</lc:LogicalCircuitId>
+		<lc:X1>22</lc:X1>
+		<lc:Y1>11</lc:Y1>
+		<lc:X2>36</lc:X2>
+		<lc:Y2>15</lc:Y2>
+	</lc:Wire>
 </lc:CircuitProject>
