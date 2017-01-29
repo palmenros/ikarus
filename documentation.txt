@@ -1,0 +1,16 @@
+MULTIPLICATION:
+
+8bit * 8bit multiplication scheme:
+([a-p] are bits and z is carry from sum)
+
+										abcd efgh
+										ijkl mnop
+							|-----------------------
+							|pa pb pc pd pe pf pg ph
+						 oa |ob oc od oe of og oh
+					  na nb |nc nd ne nf ng nh
+				   ma mb mc |md me mf mg mh
+				la lb lc ld |le lf lg lh
+			 ka kb kc kd ke |kf kg kh
+		  ja jb jc jd je jf |jg jh
+	 z ia ib ic id ie if ig |ih
