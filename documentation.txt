@@ -13,4 +13,34 @@ MULTIPLICATION:
 				la lb lc ld |le lf lg lh
 			 ka kb kc kd ke |kf kg kh
 		  ja jb jc jd je jf |jg jh
-	 z ia ib ic id ie if ig |ih
+     c ia ib ic id ie if ig |ih
+
+
+1  : oa + nb + mc + ld + ke + jf + ig
+2  : na + mb + lc + kd + je + if + c(1)
+4  : ma + lb + kc + jd + ie + c(2)
+8  : la + kb + jc + id + c(4)
+16 : ka + jb + ic + c(8)
+32 : ja + ib + c(16)
+64 : ia + c(32)
+128: c(64)
+							gfed cba0
+							0onm lkji *
+				-----------------------
+				 ig if ie id ic ib ia 0
+				 jf je jd jc jb ja
+				 ke kd kc kb ka
+				 lf lc lb la
+				 mc mb ma
+				 nb na
+				 oa
+				------------------------
+
+1  : 0
+2  : ia
+4  : ib + ja
+8  : ic + jb + ka + c(4)
+16 : id	+ jc + kb + la + c(8)
+32 : ie + jd + kc + lb + ma + c(16)
+64 : if	+ je + kd + lc + mb + na + c(32)
+128: ig + jf + ke + ld + mc + nb + oa + c(64)
