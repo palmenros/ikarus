@@ -16,6 +16,19 @@ MULTIPLICATION:
      c ia ib ic id ie if ig |ih
 
 
+							  aaaa aaaa abcd efgh
+							  iiii iiii ijkl mnop
+							|-----------------------
+					        |pa pb pc pd pe pf pg ph
+						 oa |ob oc od oe of og oh
+					  na nb |nc nd ne nf ng nh
+				   ma mb mc |md me mf mg mh
+				la lb lc ld |le lf lg lh
+			 ka kb kc kd ke |kf kg kh
+		  ja jb jc jd je jf |jg jh
+     c ia ib ic id ie if ig |ih
+
+
 1  : oa + nb + mc + ld + ke + jf + ig
 2  : na + mb + lc + kd + je + if + c(1)
 4  : ma + lb + kc + jd + ie + c(2)
@@ -44,3 +57,7 @@ MULTIPLICATION:
 32 : ie + jd + kc + lb + ma + c(16)
 64 : if	+ je + kd + lc + mb + na + c(32)
 128: ig + jf + ke + ld + mc + nb + oa + c(64)
+
+Names:
+----------------------------------------------
+Computer: Ikarus

@@ -4,8 +4,11 @@
 		<lc:ProjectId>f2f4921a-0115-422e-86a9-9b2d654ae001</lc:ProjectId>
 		<lc:Zoom>1.15898876404494</lc:Zoom>
 		<lc:Frequency>12</lc:Frequency>
-		<lc:LogicalCircuitId>8a6a2487-8a7b-489c-ba14-e6705a18a23e</lc:LogicalCircuitId>
+		<lc:LogicalCircuitId>40b7e91c-0579-4f0d-8203-7fad91705d3b</lc:LogicalCircuitId>
 	</lc:Project>
+	<lc:CollapsedCategory>
+		<lc:Name>8-bit Calc</lc:Name>
+	</lc:CollapsedCategory>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>8a6a2487-8a7b-489c-ba14-e6705a18a23e</lc:LogicalCircuitId>
 		<lc:Name>Tester</lc:Name>
@@ -94,8 +97,8 @@
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>40b7e91c-0579-4f0d-8203-7fad91705d3b</lc:LogicalCircuitId>
-		<lc:Name>4-bit Display Controller</lc:Name>
-		<lc:Notation>4-bit Display Controller</lc:Notation>
+		<lc:Name>4-7</lc:Name>
+		<lc:Notation>4-7</lc:Notation>
 		<lc:Category>Testing</lc:Category>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
